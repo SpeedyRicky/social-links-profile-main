@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body { 
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    margin-top: 50px;
+    background-color: hsl(0, 0%, 12%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 400px;
+    border-radius: 15px;
+}
+
+img {
+    border-radius: 10000px;
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+.name {
+    color: white;
+    font-family: Inter;
+    font-weight: 700;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.live {
+    color: hsl(75, 94%, 57%);
+    font-family: Inter;
+    font-weight: 400;
+}
+
+.jobs {
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 100;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.work {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.works {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.workz {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.workk {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.workq {
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-family: Inter;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+    margin-bottom: 15px;
+    width: 300px;
+}
