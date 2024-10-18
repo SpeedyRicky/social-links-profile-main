@@ -27,7 +27,7 @@ body {
 }
 
 img {
-    border-radius: 100000000000000000000000000000000000000000000000px;
+    border-radius: 50px;
     width: 100px;
     height: 150px;
     margin-bottom: 30px;
